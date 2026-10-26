@@ -1,5 +1,11 @@
 # Predicción del Rendimiento de GPUs (FP32) mediante Machine Learning
 
+## Integrantes
+
+* Neyder Fabián Peña González  Codigo: 2252004
+* Julio Cesar Sierra Jimenez   Codigo: 2251503
+* Samuel Mateo Chacon Ojeda    Codigo: 2251508
+
 Este proyecto busca predecir y clasificar el rendimiento de tarjetas gráficas (GPUs) basándose en sus especificaciones técnicas de hardware
 
 El objetivo principal es clasificar el rendimiento en precisión simple (`fp32_performance`) en las categorías Bajo, Medio y Alto,  permitiendo estimar la potencia de un hardware
