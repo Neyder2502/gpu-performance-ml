@@ -9,6 +9,11 @@
 
 Clasificar y predecir el rendimiento FP32 (TFLOPS) de GPUs a partir de sus especificaciones técnicas.
 
+## Video Explicativo del proyecto
+
+* **Link del Video:** https://youtu.be/czN5Uysr8-M
+
+
 ## Dataset
 
 GPU Performance Prediction (Kaggle), 10,000 registros y 19 columnas: [Descargar dataset](https://www.kaggle.com/datasets/psychocoderxd/gpu-performance-prediction)
@@ -72,8 +77,3 @@ GPU Performance Prediction (Kaggle), 10,000 registros y 19 columnas: [Descargar 
 * **Machine Learning:** Scikit-Learn
 * **Visualización:** Matplotlib, Seaborn
 * **Entorno:** Google Colab / Jupyter Notebook
-
-## Video Explicativo del proyecto
-
-* **Link del Video:** https://youtu.be/czN5Uysr8-M
-
