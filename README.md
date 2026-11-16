@@ -1,3 +1,6 @@
+<img width="3328" height="1248" alt="Banner Toma Final" src="https://github.com/user-attachments/assets/db12a8db-7de9-495f-86df-8f356a4e69ce" />
+
+
 # Predicción del Rendimiento de GPUs (FP32) mediante Machine Learning
 
 **Autores:** Neyder Fabián Peña González, Julio Cesar Sierra Jimenez, Samuel Mateo Chacon Ojeda
