@@ -72,3 +72,8 @@ GPU Performance Prediction (Kaggle), 10,000 registros y 19 columnas: [Descargar 
 * **Machine Learning:** Scikit-Learn
 * **Visualización:** Matplotlib, Seaborn
 * **Entorno:** Google Colab / Jupyter Notebook
+
+## Video Explicativo del proyecto
+
+* **Link del Video:** https://youtu.be/czN5Uysr8-M
+
