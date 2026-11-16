@@ -45,12 +45,6 @@ GPU Performance Prediction (Kaggle), 10,000 registros y 19 columnas: [Descargar 
 
 ---
 
-## Resultados Principales
-
-* **Random Forest** y **Decision Tree** lograron un **F1-Score superior a 0.99** en validación y test, tanto en el enfoque binario como en el multiclase.
-* **SVM** (kernel RBF) obtuvo un F1-Score cercano a 0.99, con mayor costo computacional.
-* **Naive Bayes** fue el de peor desempeño (F1 ~ 0.89), afectado por la multicolinealidad entre variables, que viola su supuesto de independencia condicional.
-
 ## Tecnologías Utilizadas
 
 * **Lenguaje:** Python 3
